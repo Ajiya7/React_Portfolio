@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "name": "Movie Lookup",
+      "image": "",
+      "deployedapp": "https://vanwykkim.github.io/movie-lookup/",
+      "description":"This was a project which i worked on with 3 other people to make a web application where you type in the name of a movie and details about the movie are shown for example the title, year, genre, runtime ratings and other stuff including the poster. We also added a button the shows gifs relted to the title and genre of the movie."
+      },
+      {
+        "id": 2,
+        "name": "Vapour",
+        "image": "",
+        "deployedapp": "https://vapour-for-gamers.herokuapp.com/",
+        "description":"This was a project which i worked on with 3 other people to make a web application that was deployed in heroku to that uses the steam api when the user signs up and inputs his steamid, we were then able to get the users data to give him random achievements and games to play"
+      }
+]
