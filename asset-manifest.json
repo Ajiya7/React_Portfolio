@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.23ed21b4.css",
+    "main.js": "/react-portfolio/static/js/main.f8713542.js",
+    "static/media/vapour.png": "/react-portfolio/static/media/vapour.0087d46d2dba1e491d12.png",
+    "static/media/movielookup.png": "/react-portfolio/static/media/movielookup.28416a11ecdf200e9de5.png",
+    "static/media/AVATAR.png": "/react-portfolio/static/media/AVATAR.fef79e5751a0ae54d530.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.23ed21b4.css.map": "/react-portfolio/static/css/main.23ed21b4.css.map",
+    "main.f8713542.js.map": "/react-portfolio/static/js/main.f8713542.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23ed21b4.css",
+    "static/js/main.f8713542.js"
+  ]
+}
