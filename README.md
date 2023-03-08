@@ -66,4 +66,4 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ### Link to repo: https://github.com/Ajiya7/React_Portfolio
 
-### Link to deployed apllication: 
+### Link to deployed apllication: https://ajiya7.github.io/React_Portfolio/
